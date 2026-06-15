@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alan Sellers 👋</h1>
 
 <p align="center">
-  Software engineer at <a href="https://rev.io">Rev.io</a> by day — ham radio operator, combat-robot builder, and 3D-printing tinkerer by night.
+  Staff Software engineer at <a href="https://rev.io">Rev.io</a> by day — ham radio operator, combat-robot builder, and 3D-printing tinkerer by night.
 </p>
 
 <p align="center">
