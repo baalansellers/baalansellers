@@ -58,8 +58,8 @@ When I step away from the keyboard, I'm usually:
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baalansellers&show_icons=true&hide_border=true&theme=default" alt="Alan's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baalansellers&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baalansellers&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true" alt="Alan's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baalansellers&layout=compact&hide_border=true&theme=default&count_private=true&include_all_commits=true" alt="Top languages" height="165" />
 </p>
 
 ---
